@@ -29,13 +29,13 @@ public class Signos_dos_Zodiaco {
         }
         else if((mes == 2) && ((dia >= 19) && (dia <= 28)) || (mes == 3) && ((dia >= 1) && (dia <= 20)))
         {
-            System.out.println("\nSeu Sugno é de Peixes!\n"); 
+            System.out.println("\nSeu Signo é de Peixes!\n"); 
         }
-        else if((mes == 3) && ((dia >= 21) && (dia <=31)) || (mes ==4) && ((dia >= 1) && (dia <=19)))
+        else if((mes == 3) && ((dia >= 21) && (dia <= 31)) || (mes == 4) && ((dia >= 1) && (dia <=19)))
         {
             System.out.println("\nSeu Signo é de Áries!");
         }
-        else if((mes == 4) && ((dia >= 20) && (dia <=30)) || (mes == 5) && ((dia >= 1) && (dia <= 20)))
+        else if((mes == 4) && ((dia >= 20) && (dia <= 30)) || (mes == 5) && ((dia >= 1) && (dia <= 20)))
         {
             System.out.println("\nSeu Signo é de Touro!");
         }
